@@ -1,0 +1,107 @@
+.header {
+  background-color: #060d13;
+  height: 250px;
+  text-align: center;
+}
+
+.logo img {
+  width : 100px;
+  height: auto;
+  padding-top: 30px;
+}
+
+.eve img {
+  width : 50px;
+  height: auto;
+}
+
+.eve button {
+  background-color: #2d5986;
+  border: none;
+  text-align: center;
+  margin-top: 30px;
+}
+
+.login {
+  visibility: visible;
+}
+
+.eve button:hover {
+  background-color: #132639;
+}
+
+.Bagian-utama {
+  background-image: url(https://pbs.twimg.com/media/EtPXm4eXEAQ-uK3.jpg);
+  background-size: cover;
+  float: left;
+}
+
+.profil p {
+  font-family: "Candara";
+  text-align: justify;
+  height: 500px;
+  margin-right: 700px;
+  margin-left: 30px;
+  float: left;
+}
+
+.main-video {
+  background-color: #000000;
+  height: 800px;
+}
+
+.video {
+  float: left;
+  padding: 30px 10px 0px 70px;
+  word-spacing: 30px;
+}
+
+.footer {
+  bottom: 0;
+  left: 0;
+  right: 0;
+  background: #111;
+  height: auto;
+  font-family: "Open Sans";
+  padding-top: 40px;
+  color: #fff;
+}
+
+.socials{
+    list-style: none;
+    color: #ffffff;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin: 1rem 0 2rem 0;
+    word-spacing: 15px;
+}
+
+.socials a {
+  color: #ffffff;
+}
+
+.album {
+  word-spacing: 70px;
+  padding-top: 20px;
+  padding-bottom: 20px;
+  text-align: center;
+}
+
+.outer-footer {
+    background: #000;
+    padding: 20px 0;
+    text-align: center;
+}
+
+.outer-footer p{
+    font-size: 14px;
+    word-spacing: 2px;
+    text-transform: capitalize;
+}
+
+.outer-footer span{
+    text-transform: uppercase;
+    opacity: .4;
+    font-weight: 200;
+}
